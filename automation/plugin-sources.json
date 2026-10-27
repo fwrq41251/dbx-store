@@ -82,6 +82,11 @@
       "autoUpdate": true
     },
     {
+      "repository": "fwrq41251/dbx-plugin-cosmosdb",
+      "metadataPath": ".dbx-store.json",
+      "autoUpdate": true
+    },
+    {
       "repository": "IceFoxs/dbx-plugin-aes-tools",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
